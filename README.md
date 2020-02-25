@@ -4,7 +4,7 @@ Api Rest CRUD para una fábrica de automóviles.
 La Api Rest de la fábrica de automóviles está desarrollada para el Recruitment test de la empresa SysOne.
 
 
-*** CONFIGURACIÓN ***
+''' CONFIGURACIÓN '''
 
 La base de datos seleccionada es MySQL 8+ y debe contar con la siguiente estructura de tabla:
 
@@ -21,7 +21,7 @@ Hecho esto, se requiere configurar el fichero application.properties con la cone
 src/main/resources/applicacion.properties
 
 
-*** USO ***
+''' USO ''' 
 
 Funcion: Listar todos automóviles
 Descripción: Este método se invocará cuando por una petición GET se llame a la url "http://127.0.0.1:8080/api/autos", Retornará todos los automoviles.
