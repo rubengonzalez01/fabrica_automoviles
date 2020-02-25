@@ -3,6 +3,8 @@ Api Rest CRUD para una fábrica de automóviles.
 
 La Api Rest de la fábrica de automóviles está desarrollada para el Recruitment test de la empresa SysOne.
 
+***
+***
 
 ### CONFIGURACIÓN
 
@@ -20,8 +22,10 @@ primary key(id)
 Hecho esto, se requiere configurar el fichero application.properties con la conexión a la base de datos que corresponda.
 src/main/resources/applicacion.properties
 
+***
+***
 
-### USO
+### FUNCIONES
 
 _Funcion_: Listar todos automóviles
 
