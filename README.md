@@ -1,8 +1,6 @@
 # fabrica_automoviles
 Api Rest CRUD para una fábrica de automóviles.
 
-La Api Rest de la fábrica de automóviles está desarrollada para el Recruitment test de la empresa SysOne.
-
 En base a la versión del automovil (sedan, coupé, familiar) y sus opcionales (TC, AA, ABS, AB, LL), la aplicación guardará en la base de datos el automovil con su precio final.
 Se podrá consultar, dar de alta, modificar y borrar automóviles, persistiendo dichos cambios en la base de datos.
 
